@@ -7,7 +7,7 @@ int main()
     cout << "Enter A and B: ";
     int a, b;
     cin >> a >> b;
-    cout << "A + B = " << a + b << '\n'
-     << "A - B = " << a - b << '\n';
+    cout << "Sum of a and b: " <<a+b<<endl;
+    cout << "Difference a and b: " <<a-b;
     return 0;
 }
