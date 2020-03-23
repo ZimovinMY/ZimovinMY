@@ -15,5 +15,9 @@ int main()
          cout <<a;
      else
          cout <<b;
+     if(a>b)
+        cout<<b;
+     else
+        cout<<a;
     return 0;
 }
